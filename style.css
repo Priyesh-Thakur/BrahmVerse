@@ -1,6 +1,6 @@
 body {
   background-color: black;
-  background-image:url("homePage.png");
+  background-image:url("homepage.png");
   background-repeat:no-rpeat;
   background-size:cover;
 }
@@ -9,4 +9,5 @@ body {
   z-index:999;
   position:relative;
 }
+
 
