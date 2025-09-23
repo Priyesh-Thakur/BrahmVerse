@@ -1,6 +1,12 @@
 body {
   background-color: black;
+  background-image:url("homePage.png");
+  background-repeat:no-rpeat;
+  background-size:cover;
 }
-h2 {
+.title {
   color: white;
+  z-index:999;
+  position:relative;
 }
+
