@@ -1,9 +1,10 @@
 body {
   background-color: black;
 }
-.title{
-  tags-alligned:centre;
+#title{
+  text-align:centre;
   color: white;
 }
+
 
 
