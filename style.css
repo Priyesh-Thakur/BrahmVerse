@@ -1,6 +1,7 @@
 body {
   background-color: black;
 }
-h2 {
+#title{
+  tags-alligned:centre
   color: white;
 }
