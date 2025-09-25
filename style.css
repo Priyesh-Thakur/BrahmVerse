@@ -1,5 +1,5 @@
 body {
-  background-image: url{"Universe.png"};
+  background-image: url("Universe.png");
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -8,6 +8,7 @@ body {
   color: white;
 }
   
+
 
 
 
